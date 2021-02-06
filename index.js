@@ -1,3 +1,5 @@
+let testCodeGrade = 'Testing Code Grade is working';
+
 export const artists = [
     {
       "id": 0,
